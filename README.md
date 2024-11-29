@@ -3,8 +3,8 @@
 ## About Me
 🎯 Full Stack Mid level Developer passionate about creating problems (ops!) and building innovative solutions (or just solutions). In love with PHP & JavaScript.
 
-- 🌍 **Location:** Barreiras, BA, Brazil  
-- 🛠️ **Currently working with:** Laravel, Vue.js, Node and Docker  
+- 🌍 **Location:** Barreiras, BA, Brazil
+- 🛠️ **Currently working with:** Laravel, Vue.js, Node, Nest, Linux and Docker  
 - 🌱 **Learning:** Golang and Kubernetes
 - 💬 **Contact me:** Send me a message on [LinkedIn](https://www.linkedin.com/in/ezequiel-php)
 
